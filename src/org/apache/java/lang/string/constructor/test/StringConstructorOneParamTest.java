@@ -6,8 +6,6 @@ package org.apache.java.lang.string.constructor.test;
  * explicit copy of {@code original} is needed, use of this constructor is
  * unnecessary since Strings are immutable.
  *
- * @param  original
- *         A {@code String}
  */
 class StringConstructorOneParamTest {
     public static void main(String[] args) {
